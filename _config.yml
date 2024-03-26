@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mujun Zhang / Personal Homepage"
+title                    : "Mujun Zhang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Mujun Zhang"
-description              : &description "personal description"
+description              : &description "a fourth-year undergraduate student from Wuhan University of Technology"
 url                      : https://miracalefriend.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MiracleFriend/MiracleFriend.github.io"
